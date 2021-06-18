@@ -11,7 +11,7 @@ function multiTable(number) {
 10 * ${number} = ${10 * number}`
 }
 
-// or you can write a for loop
+// or you can write a for loop instead
 
 const multiTable = (number) => {
     const numberTable = []
