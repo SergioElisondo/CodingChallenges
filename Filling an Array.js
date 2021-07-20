@@ -5,7 +5,3 @@ function arr(N) {
     }
     return newArray
 }
-
-function arr(N){
-   return N.Array.from()
-}
